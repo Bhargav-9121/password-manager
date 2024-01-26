@@ -29,13 +29,6 @@ The app must have the following functionalities
 - When all password items are deleted, then [No Passwords View](https://assets.ccbp.in/frontend/content/react-js/password-manager-no-passwords-lg-output.png) should be displayed
 </details>
 
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
 ### Resources
 
 <details>
