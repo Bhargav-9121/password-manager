@@ -6,10 +6,8 @@
 </div>
 <br/>
 
-### Completion Instructions
-
 <details>
-<summary>Functionality to be added</summary>
+<summary>Functionality added</summary>
 <br/>
 
 The app must have the following functionalities
